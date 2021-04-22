@@ -1,4 +1,4 @@
-﻿-- FileName: pere0234-Assignment2-DDL.sql
+﻿-- FileName: UNESCO Canada Create Tables DDL.sql
 -- Description: Script to create Assignment2 database, create TABLEs
 -- CST 8215
 -- Author: Daniel Pereira Castillo
