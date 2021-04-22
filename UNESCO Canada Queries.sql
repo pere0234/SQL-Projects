@@ -1,4 +1,4 @@
-﻿-- FileName: pere0234-Assignment2-Queries.sql
+﻿-- FileName: UNESCO Canada Queries.sql
 -- Description: Script to test various queries for Assignment2
 -- CST 8215
 -- Author: Daniel Pereira Castillo
