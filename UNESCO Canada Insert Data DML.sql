@@ -1,4 +1,4 @@
-﻿-- FileName: pere0234-Assignment2-DML.sql
+﻿-- FileName: UNESCO Canada Insert Data DML.sql
 -- Description: Script to populate Assignment2 database
 -- CST 8215
 -- Author: Daniel Pereira Castillo
