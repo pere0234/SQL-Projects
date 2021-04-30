@@ -8,23 +8,23 @@
         
  * Business Rules:
   * Canadian Province
-    1. A province is unique and individual. 
-    2. A province's name, capital city, and population, among other details is maintained.
-    3. All Canadian provinces are listed.
-    4. A province may have many UNESCO sites.
-    5. A province may not have any sites. 
-    6. A site must belong to one province.
+    * A province is unique and individual. 
+    * A province's name, capital city, and population, among other details is maintained.
+    * All Canadian provinces are listed.
+    * A province may have many UNESCO sites.
+    * A province may not have any sites. 
+    * A site must belong to one province.
    
    * Cultural Site
-    7. A list of cultural sites is maintained in the database. They include such items as historic buildings, works of art, archaeological sites, libraries, and museums.
-    8. Each site is listed by site ID, province, name, and location coordinates.
+    * A list of cultural sites is maintained in the database. They include such items as historic buildings, works of art, archaeological sites, libraries, and museums.
+    * Each site is listed by site ID, province, name, and location coordinates.
    
    * Natural Site
-    9. A list of natural sites is maintained in the database. They include such items as national and provincial parks, geological formations, and other topological phenomena. 
-   10. Each site is listed by site ID, province, name, and location coordinates.
+    * A list of natural sites is maintained in the database. They include such items as national and provincial parks, geological formations, and other topological phenomena. 
+    * Each site is listed by site ID, province, name, and location coordinates.
    
    * Mixed Site
-   11. A list of natural sites is maintained in the database. They include those that contain elements of both natural and cultural significance. 
-   12. Each site is listed by site ID, province, name, and location coordinates.
+    * A list of natural sites is maintained in the database. They include those that contain elements of both natural and cultural significance. 
+    * Each site is listed by site ID, province, name, and location coordinates.
 
 
