@@ -22,4 +22,8 @@
   * Natural Site
     * A list of natural sites is maintained in the database. They include those that contain elements of both natural and cultural significance. 
     * Each site is listed by site ID, province, name, and location coordinates.
+  
+ * Mixed Site
+    * A list of natural sites is maintained in the database. They include those that contain elements of both natural and cultural significance. 
+    * Each site is listed by site ID, province, name, and location coordinates.
 
