@@ -18,4 +18,8 @@
   * Cultural Site
     * A list of cultural sites is maintained in the database. They include such items as historic buildings, works of art, archaeological sites, libraries, and museums.
     * Each site is listed by site ID, province, name, and location coordinates.
+  
+  * Natural Site
+    * A list of natural sites is maintained in the database. They include those that contain elements of both natural and cultural significance. 
+    * Each site is listed by site ID, province, name, and location coordinates.
 
