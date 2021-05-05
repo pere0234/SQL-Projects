@@ -27,3 +27,4 @@
     * A list of natural sites is maintained in the database. They include those that contain elements of both natural and cultural significance. 
     * Each site is listed by site ID, province, name, and location coordinates.
 
+![image](https://user-images.githubusercontent.com/77496752/117150391-1c7b5600-ad86-11eb-89e2-8699e811d188.png)
